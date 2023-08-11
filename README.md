@@ -2,6 +2,22 @@
 
 Welcome to the MERN Notes Application! This is a full-stack notes application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides users with the ability to register, log in, and manage their personal notes securely. JSON Web Tokens (JWT) are used for user authorization, ensuring data privacy and security.
 
+**Login Page**
+![image](https://github.com/ishan21sh/Mern-Notes-App/assets/77916539/25ca48ab-d879-49e9-9b00-76af086d0967)
+
+**Register Page**
+![image](https://github.com/ishan21sh/Mern-Notes-App/assets/77916539/944b5b25-b874-411c-831a-d816b29db239)
+
+**Main Page**
+![image](https://github.com/ishan21sh/Mern-Notes-App/assets/77916539/237445f7-df91-4715-b603-c00bbc8b3d7b)
+
+**Edit Page**
+![image](https://github.com/ishan21sh/Mern-Notes-App/assets/77916539/4f42ee34-045c-41a8-b1c3-e0283ef5d451)
+
+**Create Note**
+![image](https://github.com/ishan21sh/Mern-Notes-App/assets/77916539/087589c8-3378-4d39-aae3-c29781a7f8d9)
+
+
 ## Features
 
 - User Registration: Create an account to access the notes application.
